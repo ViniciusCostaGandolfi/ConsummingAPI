@@ -1,0 +1,26 @@
+# Arquivos compilados
+target/
+bin/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Dependências e bibliotecas
+lib/
+libs/
+
+# Arquivos de build
+build/
+out/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Outros arquivos gerados
+*.class
+*.jar
+*.war
+*.ear
+*.swp
